@@ -1,0 +1,12 @@
+2018-04-16 20:58:48,563:INFO  : info message
+2018-04-16 20:58:48,564:WARN  : warn message
+2018-04-16 20:58:48,564:ERROR  : error message
+2018-04-16 20:58:48,565:DEBUG  : debug message
+2018-04-16 21:14:08,435:INFO  : info message
+2018-04-16 21:14:08,437:WARN  : warn message
+2018-04-16 21:14:08,438:ERROR  : error message
+2018-04-16 21:14:08,439:DEBUG  : debug message
+2018-04-16 21:25:19,633:WARN  : [tarea1.cc:test1:27]warn message
+2018-04-16 21:25:19,634:INFO  : [tarea1.cc:test1:28]info message
+2018-04-16 21:25:19,634:ERROR  : [tarea1.cc:test1:29]error message
+2018-04-16 21:25:19,635:DEBUG  : [tarea1.cc:test1:30]debug message
